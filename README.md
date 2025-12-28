@@ -8,13 +8,15 @@ Data ini didapat dari percobaan/eksperimen LHC di CERN. pada tahun 2010.
 
 # Model yang dipakai
 1. Random Forest
-2. K-Nearest-Neighbors (KNN)
-3. XGBoost
+2. XGBoost
+3. QSVM
 
 # Peralatan
 1. Python 3.8
 2. skicit-learn
-3. numpy
-4. pandas
-5. matplotlib
-6. seaborn
+3. qiskit
+4. pennylane
+5. numpy
+6. pandas
+7. matplotlib
+8. seaborn
